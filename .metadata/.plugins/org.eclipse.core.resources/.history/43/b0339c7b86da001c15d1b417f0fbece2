@@ -1,0 +1,18 @@
+package dayday01;
+
+
+
+public class day15 {
+
+	public static void main(String[] args) {
+		String str1 ="990118-1853927";
+		String str2 =str1.substring(0,6)+'"'+str1.substring(7);
+		
+		
+		
+		str1.substring(7);
+		System.out.println(str2);
+		
+	}
+
+}

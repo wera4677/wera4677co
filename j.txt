@@ -1,0 +1,15 @@
+static int num =0;
+
+class aa{
+
+static int num = 0; //타입 필드 = 초기값
+
+}
+
+class c{
+	aa way = new aa();
+	way.num++;// 접근 방법1
+
+	aa.num++; //접근 방법 2
+}
+

@@ -1,0 +1,2 @@
+module dayday01 {
+}
